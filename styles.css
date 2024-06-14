@@ -1,0 +1,18 @@
+body
+{
+    background-color:rgb(67, 139, 0);
+}
+h2
+{
+    font-size: 2rem;
+    color: #cf5241;
+    padding: 7rem;
+}
+ 
+.img-fluid.my
+{
+    width: 25rem;
+    height:auto;
+    border-radius: 15%;
+    margin-left: 8rem;
+}
